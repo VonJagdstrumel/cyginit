@@ -1,0 +1,13 @@
+automake
+cmake
+gcc-g++
+gdb
+libtool
+libxslt-devel
+make
+mingw64-x86_64-gcc-g++
+python38-cryptography
+python38-devel
+python38-nacl
+python38-openssl
+upx

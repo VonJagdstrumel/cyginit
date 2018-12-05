@@ -1,0 +1,32 @@
+pip3 install -U --user autoenv
+pip3 install -U --user bandit
+pip3 install -U --user beets
+pip3 install -U --user black
+pip3 install -U --user conan
+pip3 install -U --user Django
+pip3 install -U --user exodus-bundler
+pip3 install -U --user Flask
+pip3 install -U --user git-filter-repo
+pip3 install -U --user git-sweep
+pip3 install -U --user gixy
+pip3 install -U --user http-prompt
+pip3 install -U --user httpie
+pip3 install -U --user icdiff
+pip3 install -U --user isso
+pip3 install -U --user luigi
+pip3 install -U --user mopidy
+pip3 install -U --user mypy
+pip3 install -U --user ngxtop
+pip3 install -U --user ntfy
+pip3 install -U --user percol
+pip3 install -U --user pipenv
+pip3 install -U --user poetry
+pip3 install -U --user pre-commit
+pip3 install -U --user speedtest-cli
+pip3 install -U --user tldr
+pip3 install -U --user tqdm
+pip3 install -U --user trash-cli
+pip3 install -U --user voltron
+pip3 install -U --user xxh-xxh
+
+pip3 install -U --user autopep8 flake8 pylint yamllint
